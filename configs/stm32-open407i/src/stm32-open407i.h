@@ -33,8 +33,8 @@
  *
  ****************************************************************************/
 
-#ifndef __CONFIGS_OLIMEX_STM32_E407_SRC_H
-#define __CONFIGS_OLIMEX_STM32_E407_SRC_H
+#ifndef __CONFIGS_STM32_OPEN407I_SRC_H
+#define __CONFIGS_STM32_OPEN407I_SRC_H
 
 /****************************************************************************
  * Included Files
